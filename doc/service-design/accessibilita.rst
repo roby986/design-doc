@@ -148,6 +148,7 @@ attraverso molti tool online come `colour contrast check <http://snook.ca/techni
 oppure se si lavora con lo UI Kit è possibile installare il plugin di Sketch chiamato 
 Stark che permette la verifica del contrasto, la simulazione del tipo di 
 “colorblindness” e l’esportazione del report.
+PROVA
 
 Normativa
 ~~~~~~~~~
