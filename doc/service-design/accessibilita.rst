@@ -23,6 +23,7 @@ Nessun utente deve essere discriminato, anche se si trova ad operare in
 una situazione di particolare difficoltà fisica, e deve quindi poter
 fruire di tutte le informazioni e i servizi digitali rilasciati da un
 ente pubblico.
+PROVA
 
 Creare un sito accessibile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
